@@ -27,19 +27,19 @@ When I'm not at the gym or reading, I dabble in some League of Legends. Currentl
 -  **for midlane:** Sylas Kassadin Yasuo Qiyana
 -  **for jungle:** Rengar Graves Nidalee Qiyana
 - **Rank history:**
-- Season 2 Silver 1
-- Season 3 Gold 4
-- Season 4 Gold 3
-- Season 5 Gold 2
-- Season 6 Platinum 4
-- Season 7 Diamond 2
-- Season 8 Master
-- Season 9 Grandmaster on 3 roles
-- Season 10 Challenger on midlane
-- Season 11 Grandmaster on 3 roles master on 2
-- Season 12 Master
-- Season 13 Challenger
-- Season 14 Challenger 500lp 78% winrate
+  - Season 2 Silver 1
+  - Season 3 Gold 4
+  - Season 4 Gold 3
+  - Season 5 Gold 2
+  - Season 6 Platinum 4
+  - Season 7 Diamond 2
+  - Season 8 Master
+  - Season 9 Grandmaster on 3 roles
+  - Season 10 Challenger on midlane
+  - Season 11 Grandmaster on 3 roles master on 2
+  - Season 12 Master
+  - Season 13 Challenger
+  - Season 14 Challenger 500lp 78% winrate
 
 **Achievements:**
 - 🏆 Highest Rank: Challenger
