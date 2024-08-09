@@ -1,4 +1,4 @@
-# Hello, I'm Marko Rogers 👋
+# Hello there! I'm Marko! 👋
 
 Welcome to my GitHub profile! I'm a sporty gym nerd, a highly ranked League of Legends player, and a passionate bookworm. 🚀📚💪
 
@@ -6,25 +6,20 @@ Welcome to my GitHub profile! I'm a sporty gym nerd, a highly ranked League of L
 I’m all about pushing my physical limits and staying fit. Here's a snapshot of my recent workouts:
 
 **Weekly Workout Hours:**
-- **Cardio:** 3 hrs 15 mins
-- **Strength Training:** 4 hrs 10 mins
-- **Flexibility & Mobility:** 1 hr 45 mins
-
-**Recent Workout Stats:**
-- 🏃‍♂️ Running: 15 km
-- 🏋️‍♂️ Weightlifting: 200 kg total lift
+- **Cardio:** 3 hrs 5 mins
+- **Strength Training:** 6 hrs 27 mins
+- 
 
 ## 🎮 League of Legends Achievements
-When I'm not at the gym, I’m strategizing and playing League of Legends. Currently, I’m ranked [Your Rank] and here’s a bit about my game time:
+When I'm not at the gym, I’m strategizing and playing League of Legends. Currently, I’m ranked Diamond II and here’s a bit about my game time:
 
-**Recent Game Time:**
-- **Champion:** [Your Main Champion]
-- **Hours Played This Week:** 12 hrs 30 mins
-- **Most Played Role:** [Your Main Role]
+- **Champion:** Qiyana
+- **Hours Played This Week:** 3 hrs
+- **Most Played Role:** Jungle
 
 **Achievements:**
-- 🏆 Highest Rank: [Your Highest Rank]
-- 💪 Win Rate: 65%
+- 🏆 Highest Rank: Challenger
+- 💪 Win Rate: 78%
 
 ## 📚 Science Fiction & Fantasy Books
 Books are a big part of my life. Here are some of my favorites in the sci-fi and fantasy genres:
@@ -35,8 +30,8 @@ Books are a big part of my life. Here are some of my favorites in the sci-fi and
 4. **Ender's Game** by Orson Scott Card
 5. **The Left Hand of Darkness** by Ursula K. Le Guin
 
-## 💻 Coding Stats
-Here’s a breakdown of my recent coding activity:
+## 💻 Week Stats
+Here’s a breakdown of my recent activity:
 
 📊 **This Week I Spent My Time On:**
 
