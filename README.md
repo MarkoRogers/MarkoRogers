@@ -27,6 +27,7 @@ When I'm not at the gym or reading, I dabble in some League of Legends. Currentl
 -  **for midlane:** Sylas Kassadin Yasuo Qiyana
 -  **for jungle:** Rengar Graves Nidalee Qiyana
 - **Rank history:**
+  
   - Season 2 Silver 1
   - Season 3 Gold 4
   - Season 4 Gold 3
