@@ -13,7 +13,7 @@ Books are a big part of my life. Here are some of my favorites in the sci-fi and
 5. **The Left Hand of Darkness** by Ursula K. Le Guin
 
 ## 🏋️‍♂️ Fitness Journey
-I’m all about pushing my physical limits and staying fit. Here's a snapshot of my recent workouts:
+I’m all about pushing my physical limits and staying fit:
 
 **Current goals:**
 - **Dip:** +80kg
