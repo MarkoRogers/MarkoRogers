@@ -49,9 +49,8 @@ Gym 1 hr 45 mins █████░░░░░░░░░░░░░░░░
 ## 💬 Let's Connect
 Feel free to reach out if you want to discuss fitness, gaming, books, or tech!
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Twitter: [Your Twitter](https://twitter.com/your-profile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Marko Durkic-Rogers](https://www.linkedin.com/in/marko-d-7aa571133/)
+- Email: [marko.durkic.rogers@gmail.com](mailto:marko.durkic.rogers@gmail.com)
 
 Thanks for visiting my profile! 🙌
 
