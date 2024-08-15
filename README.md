@@ -36,7 +36,7 @@ When I'm not at the gym or reading, I dabble in some League of Legends. Currentl
   - Season 7 Diamond 2
   - Season 8 Master
   - Season 9 Grandmaster on 3 roles
-  - Season 10 Challenger on midlane
+  - Season 10 Challenger on midlane 970lp
   - Season 11 Grandmaster on 3 roles master on 2
   - Season 12 Master
   - Season 13 Challenger
