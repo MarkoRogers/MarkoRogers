@@ -3,6 +3,17 @@
 Welcome to my GitHub profile! I'm a sporty gym nerd, a highly ranked League of Legends player, and a passionate bookworm. 🚀📚💪
 Here I post every and any project or codebit I'm working on, big ideas to small code rambles.
 
+## 🗒️Current Topics Im learning/Reading into
+
+1. **Boosting**
+   - Learning: Boosting MIT OpenCourseWare; https://youtu.be/UHBmv7qCey4?si=V-BBKjtPptORCfui
+2. **Statistical Learning**
+   - https://hastie.su.domains/Papers/ESLII.pdf
+3. **BooookScore: A systematic exploration of book-length summarization in the era of LLMs**
+   - https://openreview.net/forum?id=7Ttk3RzDeu
+4. **Pre-trained Gaussian processes for Bayesian optimization**
+   - https://deepmind.google/research/publications/70169/
+
 ## 📚 Science Fiction & Fantasy Books
 Books are a big part of my life. Here are some of my favorites in the sci-fi and fantasy genres:
 
