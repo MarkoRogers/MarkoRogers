@@ -5,8 +5,8 @@ Here I post every and any project or codebit I'm working on, big ideas to small 
 
 ## 🗒️Current Topics Im learning/Reading into
 
-1. **Boosting**
-   - Learning: Boosting MIT OpenCourseWare; https://youtu.be/UHBmv7qCey4?si=V-BBKjtPptORCfui
+1. **Boosting; Learning: Boosting MIT OpenCourseWare**
+   - https://youtu.be/UHBmv7qCey4?si=V-BBKjtPptORCfui
 2. **Statistical Learning**
    - https://hastie.su.domains/Papers/ESLII.pdf
 3. **BooookScore: A systematic exploration of book-length summarization in the era of LLMs**
